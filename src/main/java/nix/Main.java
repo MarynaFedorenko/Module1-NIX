@@ -41,6 +41,34 @@ public class Main {
             int [] C = new int[]{-5+random.nextInt(10),-5+random.nextInt(10)};
             first.AbcTriangle(A, B, C);
         }
+        System.out.println();
+
+
+        StringBracesBalance task = new StringBracesBalance();
+
+        //////////////Скобки в строке/////////////////////
+        for(int i=0 ;i<5; i++){
+            char [] chars = new char[]{'(','[', '{', ')', ']', '}'};
+            String string="";
+            int length = random.nextInt(6);
+            for(int j=0; j<length; j++){
+                string+= chars[random.nextInt(chars.length)];
+            }
+            task.stringChecking(string);
+        }
+
+        //////////////Бинарное дерево/////////////////////
+        BinaryTree tree = new BinaryTree();
+        tree.root = new TreeNode(1);
+        tree.root.left = new TreeNode(2);
+        tree.root.right = new TreeNode(3);
+        tree.root.left.left = new TreeNode(4);
+        tree.root.left.right = new TreeNode(5);
+        System.out.print("Deep of three is : "+ tree.maxDeep(tree.root));
+
+
+
+
 
 
 
