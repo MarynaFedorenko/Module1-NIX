@@ -66,6 +66,12 @@ public class Main {
         tree.root.left.right = new TreeNode(5);
         System.out.print("Deep of three is : "+ tree.maxDeep(tree.root));
 
+        //////////////Игра Жизнь/////////////////////
+        System.out.println();
+        LifeGame game = new LifeGame();
+        game.main(args);
+
+
 
 
 

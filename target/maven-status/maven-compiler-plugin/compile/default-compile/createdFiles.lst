@@ -1,5 +1,5 @@
 nix\Main.class
-nix\TreeNode.class
-nix\Level1.class
 nix\StringBracesBalance.class
 nix\BinaryTree.class
+nix\TreeNode.class
+nix\Level1.class

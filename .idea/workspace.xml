@@ -54,9 +54,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TreeNodeTest.ArrayOfUniqueNumbers">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nix.Main" />
+  <component name="RunManager" selected="Application.LifeGame">
+    <configuration name="LifeGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nix.LifeGame" />
       <module name="Module1" />
       <extension name="coverage">
         <pattern>
@@ -68,7 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Level1Test.chessHorseMoving" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nix.Main" />
       <module name="Module1" />
       <extension name="coverage">
         <pattern>
@@ -76,10 +77,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="nix" />
-      <option name="MAIN_CLASS_NAME" value="nix.Level1Test" />
-      <option name="METHOD_NAME" value="chessHorseMoving" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LifeGame" />
         <item itemvalue="JUnit.TreeNodeTest.ArrayOfUniqueNumbers" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.StringBracesBalanceTest.ArrayOfUniqueNumbers" />
         <item itemvalue="JUnit.Level1Test.countingTriangleArea" />
-        <item itemvalue="JUnit.Level1Test.chessHorseMoving" />
       </list>
     </recent_temporary>
   </component>
@@ -168,22 +165,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="438" y="170" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1592671492208" />
-    <state width="1556" height="362" key="GridCell.Tab.0.bottom" timestamp="1592751677055">
+    <state width="1556" height="307" key="GridCell.Tab.0.bottom" timestamp="1592816962019">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="362" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1592751677055" />
-    <state width="1556" height="362" key="GridCell.Tab.0.center" timestamp="1592751677055">
+    <state width="1556" height="307" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1592816962019" />
+    <state width="1556" height="307" key="GridCell.Tab.0.center" timestamp="1592816961925">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="362" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1592751677055" />
-    <state width="1556" height="362" key="GridCell.Tab.0.left" timestamp="1592751677055">
+    <state width="1556" height="307" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1592816961925" />
+    <state width="1556" height="307" key="GridCell.Tab.0.left" timestamp="1592816961863">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="362" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1592751677055" />
-    <state width="1556" height="362" key="GridCell.Tab.0.right" timestamp="1592751677055">
+    <state width="1556" height="307" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1592816961863" />
+    <state width="1556" height="307" key="GridCell.Tab.0.right" timestamp="1592816961925">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="362" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1592751677055" />
+    <state width="1556" height="307" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1592816961925" />
     <state width="1556" height="270" key="GridCell.Tab.1.bottom" timestamp="1592697452453">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -208,10 +205,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="3" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1592672192035" />
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1592727403213">
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1592816505982">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1592727403213" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1592816505982" />
     <state x="571" y="147" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592671248513">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
